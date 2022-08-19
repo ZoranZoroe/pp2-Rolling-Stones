@@ -40,3 +40,49 @@ a {
     margin: 0 auto;
     padding: 0 30px;
 }
+/* NAVIGATION BAR SETTINGS */
+/* ------------------------*/
+
+.header {
+    background: #000000;
+    height: 100px;
+    border-bottom: 2px solid red;
+}
+
+.header .logo {
+    letter-spacing: 5px;
+    color: red;
+    font-size: 28px;
+    font-weight: 900;
+}
+
+.header a {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.header .container {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.header ul {
+    display: flex;
+    flex-flow: wrap;
+}
+
+.header ul li {
+    margin-left: 25px;
+}
+
+.nav a:hover {
+    color: red;
+}
+
+nav a.active {
+    color: red;
+}
