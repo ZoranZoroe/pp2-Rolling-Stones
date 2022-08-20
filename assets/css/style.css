@@ -125,12 +125,41 @@ nav a.active {
     background-size: cover;
 }
 
-h1{
+.banner h1{
     position: absolute;
     left:50%;
-    top:20%;
+    top:30%;
     color:#ffffff;
     font-size: 3.5rem;
     transform: translateX(-50%);
     white-space: nowrap;
+}
+.banner p{
+    position: absolute;
+    left:50%;
+    top:45%;
+    color:#ffffff;
+    font-size: 1.5rem;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    text-align: center;
+}
+
+.hover-left .left{
+    width: 80%;
+}
+
+.hover-left .right{
+    width: 20%;
+}
+
+.hover-right .right{
+    width: 80%;
+}
+
+.hover-right .left{
+    width: 20%;
+}
+.side.left, .side.right{
+    transition: all 1500ms ease-in-out;
 }

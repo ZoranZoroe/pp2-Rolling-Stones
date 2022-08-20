@@ -22,4 +22,5 @@ In this section I will provide text and images of different features used. Websi
 
 ### Content
 ### Media
-* Banner left side image [Rolling Stones concert in Hyde Park at Alamy.com](https://www.alamy.com/)
+* Banner left side image [Rolling Stones  at stereogum.com](https://www.stereogum.com/)
+* Banner right side image [Rolling Stones  at youtube.com](https://www.youtube.com/)
