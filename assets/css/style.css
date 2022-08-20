@@ -52,6 +52,7 @@ a {
     left: 0;
     right: 0;
     transition: all 0.7s ease-in-out;
+    z-index: 1;
 }
 
 .header .logo {
@@ -93,7 +94,7 @@ nav a.active {
 }
 
 /* SPLIT BANNER AFTER NAVIGATION */
-/* ------------------------*/
+/* ------------------------------*/
 
 .banner {
     clear: both;
@@ -162,4 +163,26 @@ nav a.active {
 }
 .side.left, .side.right{
     transition: all 1500ms ease-in-out;
+}
+
+/* ----MEMBERS SECTION ----------*/
+/* ------------------------------*/
+
+#members .container {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.members-card {
+    min-width: 300px;
+    text-align: justify;
+    color: #fff;
+    margin: 20px 10px;
+    padding: 15px 20px;
+    border-radius: 3%;
+    border: 2px solid black;
+}
+.members-card img{
+    max-width: 260px;
 }
