@@ -13,11 +13,13 @@ In this section I will provide text and images of different features used. Websi
   * Placed at the top of our pages, with the red color marking the active page displayed. 
 
 
-
-
 ### Features left to implement
-
-*  
-
-    
+   
 ## UX/UI Section
+
+
+## Credits
+
+### Content
+### Media
+* Banner left side image [Rolling Stones concert in Hyde Park at Alamy.com](https://www.alamy.com/)
