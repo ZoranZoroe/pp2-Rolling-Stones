@@ -13,7 +13,6 @@ body {
     line-height: 1.5;
 }
 
-h1,
 h2 {
     font-family: Montserrat, sans-serif;
     text-transform: uppercase;
@@ -115,4 +114,23 @@ nav a.active {
 .side.left{
     left:0;
     background-image: url("../../assets/images/rs-banner-left.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.side.right{
+    right:0;
+    background-image: url("../../assets/images/rs-banner-right.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    position: absolute;
+    left:50%;
+    top:20%;
+    color:#ffffff;
+    font-size: 3.5rem;
+    transform: translateX(-50%);
+    white-space: nowrap;
 }
