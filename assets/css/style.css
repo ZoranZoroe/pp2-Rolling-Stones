@@ -177,7 +177,7 @@ nav a.active {
 .members-card {
     min-width: 300px;
     text-align: justify;
-    color: #fff;
+    color: #000;
     margin: 20px 10px;
     padding: 15px 20px;
 }
