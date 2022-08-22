@@ -11,6 +11,7 @@ In this section I will provide text and images of different features used. Websi
 
 * Navigation bar
   * Placed at the top of our pages, with the red color marking the active page displayed. 
+  ![navigation](documentation/navigation.jpg)
 * Main split images on starting page
   * Two large images that expand when hovered on or collapse when we exit hover, or hover on another image.
 ![Main image](documentation/rs-main.jpg)
@@ -27,3 +28,4 @@ In this section I will provide text and images of different features used. Websi
 ### Media
 * Banner left side image [Rolling Stones  at stereogum.com](https://www.stereogum.com/)
 * Banner right side image [Rolling Stones  at youtube.com](https://www.youtube.com/)
+* Members images 
