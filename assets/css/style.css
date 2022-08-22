@@ -241,4 +241,140 @@ a {
   .panel:nth-of-type(5){
     background-image: url('../../assets/images/rs-lyon.jpg');
   }
-  
+
+
+  /* SING UP FORM */
+#signup-form {
+    background-color: #e56c0a;
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+
+#signup-form .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.sign-card {
+    font-weight: 600;
+    background-color: #fff;
+    border-radius: 3%;
+    text-align: left;
+    flex: 40%;
+    margin: 10px 10px;
+    padding: 15px 20px;
+    line-height: 1.6;
+    border: 2px solid black;
+    font-size: 18px;
+}
+
+.sign-card p {
+    font-size: 18px;
+    text-align: justify;
+    color: #000;
+}
+
+.sign-card h3 {
+    font-size: 28px;
+    color: #e56c0a;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.sign-card img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 25px;
+    border: 5px solid #e56c0a;
+}
+.signup_form_main_image{
+    width:100%!important;
+    height:80%!important;
+    border-radius: 1%!important;
+}
+input[type=text],
+select,
+[type=date],
+[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #e56c0a;
+    box-sizing: border-box;
+}
+
+input[type=radio] {
+    display: inline-block;
+}
+
+input[type=submit],
+[type=reset] {
+    width: 30%;
+    background-color: #e56c0a;
+    color: #fff;
+    font-weight: bold;
+    padding: 14px 20px;
+    margin: 15px 0px;
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+input[type=submit]:hover,
+[type=reset]:hover {
+    background-color: #fff;
+    color: #e56c0a;
+    border: 1px solid #e56c0a;
+}
+
+
+
+  /*FOOTER */
+  #my-footer {
+    background-color: #fff;
+}
+
+#my-footer i {
+    font-size: 36px;
+    margin-right: 25px;
+    color: #fff
+}
+
+#my-footer .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer-card {
+    flex: 1;
+    text-align: justify;
+    color: #fff;
+    margin: 20px 10px;
+    padding: 15px 20px;
+    background-color: #e56c0a;
+    border-radius: 3%;
+    border: 2px solid black;
+}
+
+.footer-card span {
+    font-weight: 700;
+}
+
+.footer-card p {
+    margin-top: 25px;
+    font-size: 18px;
+}
+
+.footer-card h2 {
+    font-size: 28px;
+    color: #fff;
+    margin-top: 15px;
+    border-bottom: 3px solid #fff;
+}

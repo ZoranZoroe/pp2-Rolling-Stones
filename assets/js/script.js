@@ -21,7 +21,7 @@ right.addEventListener('mouseenter', ()=>banner.classList.add('hover-right'));
 right.addEventListener('mouseleave', ()=>banner.classList.remove('hover-right'));
 
 
-const panels = document.querySelectorAll('.panel')
+var panels = document.querySelectorAll('.panel')
 
 panels.forEach(panel => {
     panel.addEventListener('click', () => {
