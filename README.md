@@ -12,6 +12,8 @@ In this section I will provide text and images of different features used. Websi
 * Navigation bar
   * Placed at the top of our pages, with the red color marking the active page displayed. 
   ![navigation](documentation/navigation.jpg)
+  * Navigation bar changed with background color and link color when we scroll down for 200px:
+    ![navigation scrolled down](documentation/navbar-scrolled.jpg)
 * Main split images on starting page
   * Two large images that expand when hovered on or collapse when we exit hover, or hover on another image.
 ![Main image](documentation/rs-main.jpg)
