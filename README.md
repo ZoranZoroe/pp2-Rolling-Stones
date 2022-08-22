@@ -20,6 +20,9 @@ In this section I will provide text and images of different features used. Websi
 * Members section
   * Section with images and information on the members of band
   ![members image](documentation/members.jpg)
+* Tour section
+  * Section with dates and locations of the 2022. tour, which is in a form of clickable expandable image gallery.
+  ![tour image](documentation/tour.jpg)
 ### Features left to implement
    
 ## UX/UI Section
