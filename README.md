@@ -17,6 +17,7 @@ In this section I will provide text and images of different features used. Websi
 ![Main image](documentation/rs-main.jpg)
 * Members section
   * Section with images and information on the members of band
+  ![members image](documentation/members.jpg)
 ### Features left to implement
    
 ## UX/UI Section
