@@ -191,3 +191,57 @@ nav a.active {
     width: 260px;
     height:350px;
 }
+
+
+/*tour*/
+#tour .container{
+        display: flex;
+        width: 90vw;
+}
+.panel {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    color: #fff;
+    cursor: pointer;
+    flex: 0.25;
+    margin: 1px;
+    position: relative;
+    transition: all 700ms ease-in;
+  }
+  
+  .panel h3 {
+    font-size: 24px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    margin: 0;
+    opacity: 0;
+  }
+  
+  .panel.active {
+    flex: 5;
+  }
+  
+  .panel.active h3 {
+    opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
+  }
+
+  .panel:nth-of-type(1){
+    background-image: url('../../assets/images/rs-hyde.jpg');
+  }
+  .panel:nth-of-type(2){
+    background-image: url('../../assets/images/rs-amsterdam.jpg');
+  }
+  .panel:nth-of-type(3){
+    background-image: url('../../assets/images/rs-brussels.jpg');
+  }
+  .panel:nth-of-type(4){
+    background-image: url('../../assets/images/rs-vienna.jpg');
+  }
+  .panel:nth-of-type(5){
+    background-image: url('../../assets/images/rs-lyon.jpg');
+  }
+  

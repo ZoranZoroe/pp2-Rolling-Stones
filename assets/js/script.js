@@ -8,6 +8,8 @@ function fixNav() {
         nav.classList.remove('navdown')
     }
 }
+
+
 var left = document.querySelector('.left');
 var right = document.querySelector('.right');
 var banner = document.querySelector('.banner');
@@ -17,3 +19,19 @@ left.addEventListener('mouseleave', ()=>banner.classList.remove('hover-left'));
 
 right.addEventListener('mouseenter', ()=>banner.classList.add('hover-right'));
 right.addEventListener('mouseleave', ()=>banner.classList.remove('hover-right'));
+
+
+const panels = document.querySelectorAll('.panel')
+
+panels.forEach(panel => {
+    panel.addEventListener('click', () => {
+        removeActiveClasses()
+        panel.classList.add('active')
+    })
+})
+
+function removeActiveClasses() {
+    panels.forEach(panel => {
+        panel.classList.remove('active')
+    })
+}
