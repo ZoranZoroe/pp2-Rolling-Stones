@@ -24,12 +24,13 @@ In this section I will provide text and images of different features used. Websi
   * Section with dates and locations of the 2022. tour, which is in a form of clickable expandable image gallery.
   ![tour image](documentation/tour.jpg)
 * Sign up form
-
+  * Sign up form to keep you updated on all Rolling Stones news
+    ![Sign up form image](documentation/signup.jpg)
 * Footer
   * Footer section located at the bottom of all our website and is split into two parts:
     * Our online shop.
     * Social links representing all main social sites, which will open in a new tab allowing users to return easy to our website.
-![Footer](documentation/footer.jpg)
+![Footer](documentation/footer_rs.jpg)
 
 ### Features left to implement
 * Sign up form
@@ -53,8 +54,8 @@ what they need to achieve their dream body goal.
 * I want to sign up for more news
 
 #### As a website administrator
-* I want to provide users with information on building muscles
-* I want to provide users with information on losing weight
+* I want to provide users with information on band members
+* I want to provide users with information on bands live concerts
 * I want to users to see that we are well informed website
 * I want users to sign up on our form
 * I want to edit/add new nutrition data upon scientific research published

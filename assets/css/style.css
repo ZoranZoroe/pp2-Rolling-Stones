@@ -117,14 +117,14 @@ a {
 
 .side.left{
     left:0;
-    background-image: url("../../assets/images/rs-banner-left.jpg");
+    background-image: url("../../assets/images/rs-banner-left.webp");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .side.right{
     right:0;
-    background-image: url("../../assets/images/rs-banner-right.jpg");
+    background-image: url("../../assets/images/rs-banner-right.webp");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -266,9 +266,6 @@ select,[type=email] {
     box-sizing: border-box;
 }
 
-input[type=radio] {
-    display: inline-block;
-}
 
 input[type=submit] {
     width: 20%;
@@ -282,8 +279,7 @@ input[type=submit] {
     font-size: 20px;
 }
 
-input[type=submit]:hover,
-[type=reset]:hover {
+input[type=submit]:hover:hover {
     background-color: #fff;
     color: #000;
     border: 1px solid #e56c0a;
@@ -333,4 +329,18 @@ input[type=submit]:hover,
     color: #fff;
     margin-top: 15px;
     border-bottom: 3px solid #fff;
+}
+
+@media (max-width: 428px) {
+    .banner h1 {
+        font-size: 1rem;
+    }
+
+    .banner p {
+        font-size: 0.5rem;
+    }
+
+    .footer-card {
+        flex: 100%;
+    }
 }
