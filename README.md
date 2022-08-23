@@ -23,10 +23,41 @@ In this section I will provide text and images of different features used. Websi
 * Tour section
   * Section with dates and locations of the 2022. tour, which is in a form of clickable expandable image gallery.
   ![tour image](documentation/tour.jpg)
+* Sign up form
+
+* Footer
+  * Footer section located at the bottom of all our website and is split into two parts:
+    * Our online shop.
+    * Social links representing all main social sites, which will open in a new tab allowing users to return easy to our website.
+![Footer](documentation/footer.jpg)
+
 ### Features left to implement
-   
+* Sign up form
 ## UX/UI Section
 
+### Site goal
+
+The main goal of The Rolling Stones website is to provide users with the information on where they can see their favourite band, whether its on television or live 
+concerts. It's very important that the information and navigation is well organized so that users can get all the information they don't have to go to any other 
+website. Coding part should be done well so that new administrators can add or change concerts.
+
+### Design choices
+In the landing page we want to inform customers about our gym and all the features it provides. Our navigation bar should give basic idea to the users
+what they need to achieve their dream body goal.
+### User stories
+
+#### As a new or existion customer
+* I want to see the band on TV
+* I want to see the band live in concert
+* I want to get information on band members
+* I want to sign up for more news
+
+#### As a website administrator
+* I want to provide users with information on building muscles
+* I want to provide users with information on losing weight
+* I want to users to see that we are well informed website
+* I want users to sign up on our form
+* I want to edit/add new nutrition data upon scientific research published
 
 ## Credits
 
@@ -34,4 +65,5 @@ In this section I will provide text and images of different features used. Websi
 ### Media
 * Banner left side image [Rolling Stones  at stereogum.com](https://www.stereogum.com/)
 * Banner right side image [Rolling Stones  at youtube.com](https://www.youtube.com/)
-* Members images 
+* Members images [Rolling Stones  at stonesnews.com](https://https://stonesnews.com/)
+  and [Rolling Stones  at rollingstones.com](https://www.rollingstones.com)
