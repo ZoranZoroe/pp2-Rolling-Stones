@@ -61,7 +61,13 @@ what they need to achieve their dream body goal.
 * I want to edit/add new nutrition data upon scientific research published
 
 ## Credits
+* Instructions how to build slides,flexbox models and forms used on this website was taken from these websites / youtube channels :
+  * [w3schools](https://www.w3schools.com/)
+  * [Kevin Powell](https://www.youtube.com/kepowob)
+  * [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+  * [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
 
+* Social icons used in footer were taken from  [Font Awesome](https://fontawesome.com/)
 ### Content
 ### Media
 * Banner left side image [Rolling Stones  at stereogum.com](https://www.stereogum.com/)
